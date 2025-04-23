@@ -33,10 +33,11 @@
 ## Input:
 
 ### Output:
+![image](https://github.com/user-attachments/assets/a73d11e0-a721-48ea-bb27-e2c9cc1ace4d)
 
 
-### Name:
-### Register Number:
+### Name: KAMALESH R
+### Register Number: 212223230094
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
